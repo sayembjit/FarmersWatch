@@ -1,4 +1,3 @@
-# FarmersWatch
 # Farmers Watch
 
 This is a simple Crop Field Rotation Management System built using Spring Boot and Hibernate. The system allows you to manage crops and fields and their relationships.
